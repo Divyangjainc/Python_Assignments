@@ -1,0 +1,2 @@
+Object-oriented programming is a software programming approach that uses data, or objects, as its primary structural element. Other programming approaches might use
+logic or functions as their primary structures. Examples of programming languages that use the OOP approach include C++, Python and R.
